@@ -1,3 +1,3 @@
-module github/hq-cml/gomodule/v3 
+module github/hq-cml/gomodule/v4 
 
 go 1.12
